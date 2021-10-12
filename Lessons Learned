@@ -1,0 +1,3 @@
+This lesson is very helpful especially since I am new to github and still learning how to use the terminal. I recommend the following changes on exercise 4:
+Step 5 wants us to use the cat command in order for the terminal to display the contents of the readme.md file. It doesn't list the command to dislay it (cat readme.md)
+Step 7 wants us to create a remote repository on GitHub and push the master branch to the remote repository. The issue is that it doesnt list the steps on what to do if an origin already exists (we created one in exercise 3). To resolve it, use the command: git remote add new_origin
